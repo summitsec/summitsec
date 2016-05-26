@@ -19,16 +19,16 @@ a { color:#81b436; text-decoration:underline;}
 
 /* header */
 .header { height:140px; background:url(images/green1.png) repeat-y top;}
-.header .logo { padding-top:24px; float:left;}
-.header_resize img.summit_logo {margin-top: 30px;}
+.header .logo { margin-top:24px; float:left; background-color:#013720;}
+.header_resize img.summit_logo {margin-top: 10px; float:left;}
 
 /* menu */
-.menu_nav { float:right; width:auto; padding-top:85px;}
+.menu_nav { float:right; width:auto; padding-top:95px;}
 .menu_nav ul { list-style:none; background:url(images/menu.gif) repeat-x top;}
 .menu_nav ul li { margin:0 5px; float:left;}
 .menu_nav ul li a { display:block; margin:0; padding:4px 20px; color:#fff; text-decoration:none; background-color:#81bb35;}
 .menu_nav ul li a { border-radius:8px; -moz-border-radius:8px; -webkit-border-radius:8px;}
-.menu_nav ul li a:hover, .menu_nav ul li.active a { background-color:#8fd533; color:green; font-weight:bold;}
+.menu_nav ul li a:hover, .menu_nav ul li.active a { background-color:#013720; color:#FFF; font-weight:bold;}
 
 /* content */
 .content { background:url(images/content_bg.gif) repeat-x bottom;}
