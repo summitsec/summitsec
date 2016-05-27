@@ -18,9 +18,9 @@ a { color:#81b436; text-decoration:underline;}
 .content_resize, .menu_nav ul li a { border-radius:12px; -moz-border-radius:12px; -webkit-border-radius:12px;}
 
 /* header */
-.header { height:140px; background:url(images/green1.png) repeat-y top;}
+.header { height:140px; background:url(images/green1.png) repeat-y top; background-color:#013720;}
 .header .logo { margin-top:24px; float:left; background-color:#013720;}
-.header_resize img.summit_logo {margin-top: 10px; float:left;}
+.header_resize img.summit_logo {margin-top: 10px; float:left;display:none;}
 
 /* menu */
 .menu_nav { float:right; width:auto; padding-top:95px;}
